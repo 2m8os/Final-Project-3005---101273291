@@ -138,6 +138,7 @@ public class Main {
         age = in.nextInt();
         System.out.println("Please enter your target weight: ");
         tweight = in.nextInt();
+        in.nextLine();
         System.out.println("Please enter your the date you wish to achieve this weight: ");
         System.out.println("Please use the format YYYY-MM-DD");
         tdate = in.nextLine();
@@ -587,6 +588,7 @@ public class Main {
         }
     }
 
+    //ADMIN FUNCTIONS
     public static void adminActions(Scanner in, Connection con)
     {
         int res; //User response

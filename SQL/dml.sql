@@ -25,8 +25,8 @@ INSERT INTO Rooms (room_num, room_desc,mon_status,tue_status,wen_status,thu_stat
 VALUES 
 (107, 'Workout Room 1','Booked', 'Available','Available','Available','Available'),
 (1408, 'Workout Room 2','Unavailable', 'Unavailable','Unavailable','Unavailable','Unavailable'),
-(113, 'Workout Room 3','Available', 'Booked','Available','Unavailable','Booked');
-(111, 'Workout Room 4','Available', 'Available','Available','Available','Available');
+(113, 'Workout Room 3','Available', 'Booked','Available','Unavailable','Booked'),
+(111, 'Workout Room 4','Available', 'Available','Available','Available','Available'),
 (121, 'Workout Room 5','Available', 'Available','Available','Available','Available');
 
 INSERT INTO Classes (class_desc, time_slot, room_num, trainer_id, spots_left)

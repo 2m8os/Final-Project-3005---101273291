@@ -3,7 +3,7 @@ Project was done in Intellij
 
 Language: Java
 
-YouTube Video:
+YouTube Video: https://youtu.be/6gCnQxlZ_Pg
 
 SQL has the dml and ddl files
 
@@ -13,3 +13,5 @@ Code contains the source files: Main.java contains the source code for the proje
 compiling and launching the project in Intellij
 
 Before compiling, replace the url, user and password variables in main() of Main.java with your own.
+
+Sorry the video was rushed, I had some difficulty trying to make it

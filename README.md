@@ -10,4 +10,4 @@ YouTube Video:
 
 SQL has the dml and ddl files
 
-Documentation has the ER diagram and the Design Schema (Project Report)
+Documentation has the ER diagram and the Design Schema (Final Project Report)
